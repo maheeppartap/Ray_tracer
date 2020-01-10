@@ -1,8 +1,8 @@
 Ray tracer
-	made for CMPT 361 fall 2019, SFU.
+	
 
 Made by: Maheeppartap Singh
-S number: 301367679
+
 
 implemented: 
 	*3 spheres
@@ -23,13 +23,9 @@ Description:
 **Scene 3 will look dark, due to light attenuation. there is a plane at the bottom and refraction works perfectly with index = 1.5.**
 **Scene 4 is just evrything put together**
 
-The images are bmp format and are NOT 400x400. But the code will run with the 400x400 window as stated in the requirements.
+The code will run with the 400x400 window. Feel free to change it :)
 
 
 To run:
 	write "make"
 	"./rayT <scene number>" without the <>. 4 scenes are implemented. so scene number should be 1,2,3,4 only.
-
-
-disclaimer:
-I used a number of online tutorials from the internet. The code which saves the picture is NOT made by me, I found it on stack overflow. Implementing that did not appear important as we are not concerned with how an image is saved. Also I am using a math library in this code. The initshader file was partially written by me to suite to this project and i reused certain code from assignment 2. 	
