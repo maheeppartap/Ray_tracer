@@ -23,7 +23,7 @@ Description:
 **Scene 3 will look dark, due to light attenuation. there is a plane at the bottom and refraction works perfectly with index = 1.5.**
 **Scene 4 is just evrything put together**
 
-The code will run with the 400x400 window. Feel free to change it :)
+The code will run with the 400x400 window. Feel free to change it in my_defined_scenes.h :)
 
 
 To run:
