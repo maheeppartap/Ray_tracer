@@ -29,3 +29,8 @@ The code will run with the 400x400 window. Feel free to change it in my_defined_
 To run:
 	write "make"
 	"./rayT <scene number>" without the <>. 4 scenes are implemented. so scene number should be 1,2,3,4 only.
+
+
+
+Disclaimer:
+This program takes more of a C approach than a object oriented since openGL was made for C originally. Hello Global variables!! 
